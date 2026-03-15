@@ -2,7 +2,7 @@
 
 > An AI-powered economic decision support system for forecasting, comparative analysis, and scenario planning across East African agricultural commodities.
 
-🔗 **Live Demo:** [https://your-frontend.vercel.app](https://haraka-frontend.vercel.app/landing_page)  
+🔗 **Live Demo:** [Deployed link](https://haraka-frontend.vercel.app/landing_page)  
 🎥 **Demo Video:** [[Drive link](https://drive.google.com/file/d/1lDBtvqLmfQXmTXnqtYvilXrClPpOm0Q2/view?usp=sharing)]  
 🐳 **Backend Image:** `docker pull simplykevine/zeno-decision-tool:latest`
 
